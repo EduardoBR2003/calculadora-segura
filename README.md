@@ -28,7 +28,7 @@ O projeto é composto pelos seguintes arquivos:
 
 ## Links Importantes
 - [Repositório no GitHub](#)
-- [Página do Projeto (se aplicável)](#)
+- [Página do Projeto](https://eduardobr2003.github.io/calculadora-segura/)
 
 ---
 Trabalho acadêmico para a disciplina de Web 1 - **Eduardo Rodrigues da Silva**.
